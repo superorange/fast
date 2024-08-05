@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## A HTTP proxy forwarding command application with Dart
+```dart
+  dart run main.dart -p 9090 -l 127.0.0.1
+```
